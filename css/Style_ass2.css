@@ -1,0 +1,190 @@
+body{
+	margin: auto;
+	background-color: #FFA500;
+}
+
+#article2{
+	margin: auto;
+}
+.brand{
+margin-left: 0px;
+margin-top: 80px; 
+font-family: 'Sedgwick Ave Display', cursive;
+float: right;
+font-size: 110px;
+text-align: center;
+letter-spacing: 5px;
+text-shadow: 3px 2px 5px white;
+color: #ef6921;
+}
+
+.logo{
+	width: 330px;
+	float: left;
+	margin-bottom: 15px;
+}
+
+#article1 {
+	margin-bottom: 10px;
+	text-decoration: none;
+	background-color: #674529;
+	height: 60px;
+	width: 100%;
+	position: fixed;
+	overflow: hidden;
+}
+
+#article1 li{
+	margin: auto;
+	display: inline;
+	list-style: none;
+	margin-bottom: 10px;
+}
+
+#article1 a{
+	font-size: 22px;
+	font-family: 'Bree Serif', serif;
+	color: #ef6921;
+}
+
+.b, .c, .d{
+	height: 200px;
+}
+
+
+h1, h2 {
+	font-family: 'Lobster Two', cursive;
+	margin-top: 20px;
+	color: #007F00;
+	background-color: #ef6921;
+	letter-spacing: 2px;
+	text-align: center;
+}
+
+#article3 .grid_12{
+	margin-bottom: 15px;
+}
+
+.b li{
+	list-style: none;
+	text-align: justify;
+	font-size: 16px;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.c li{
+	list-style: none;
+}
+
+.c li{
+	font-size: 20px;
+	text-align: justify;
+	font-family: 'Josefin Sans', sans-serif;
+	color: black;
+}
+
+.d li{
+	list-style: none;
+	font-size: 20px;
+	text-align: justify;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.story{
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 17px;
+	text-align: justify;
+}
+
+#article5 .grid_6 .grid_6 img.image5{
+	border: 2px black;
+	height: 60px;
+	width: 20%;
+	float: left;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+
+#article5 .grid_6 .grid_6 h4{
+	font-family: 'Bree Serif', serif;
+	color: #007F00;
+	margin-bottom: 15px;	
+}
+#article5 .grid_6 .grid_6 p{
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 15px;
+}
+
+#article6 .e ul li{
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 15px;	
+}
+.e{
+	height: 270px;
+}
+
+.f{
+	height: 270px;
+}
+
+.e li{
+	list-style: none;
+	margin-left: 0px;
+}
+
+.f li{
+	margin-left: 0px;
+}
+
+#article7 .zero{
+	background-color: #674529;
+	margin-bottom: 0px;
+	height: 60px;
+	margin-right: 0px;
+	margin-left: 0px;
+	padding-right: 0px;
+	padding-left: 0px;
+	width: 100%;
+}
+
+#article7 .zero h4{
+	font-size: 22px;
+	font-family: 'Bree Serif', serif;
+	color: #ef6921;
+	padding-right: 0px;
+	padding-left: 0px;
+	margin-top: 10px;
+}
+
+#foot .last{
+	margin-top: 10px;
+
+}
+
+#foot .last ul li, h3{
+	list-style: none;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 15px;
+}
+
+#foot .links ul li{
+	list-style: none;
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 15px;
+}
+
+a:hover{
+	background-color: yellow;
+}
+
+a:visited {
+    background-color: blue;
+}
+
+a:active {
+    background-color: red;
+}
+
+a{
+	color: black;
+}
